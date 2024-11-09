@@ -5,3 +5,4 @@ The Smart Mangrove Management project integrates GIS mapping, AI analysis, and c
 
 ## Workflow Diagram
 ![workflow diagram](https://github.com/[twishaahuja]/[Smart-Mangrove-Management-System]/blob/[main]/realworkflow.png?raw=true)
+https://github.com/twishaahuja/Smart-Mangrove-Management-System/blob/80d1aaf212b6e6d24175cf6cc3031b37faa3be5d/realworkflow.png
